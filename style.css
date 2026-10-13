@@ -1,3 +1,14 @@
-.body {
-    background-color: brown;
+.hero {
+    padding: 30px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+}
+
+.primary-button {
+    background-color: green;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
 }
